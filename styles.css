@@ -1,0 +1,10 @@
+
+h1 {
+  font-family: 'Helvetica Neue', Arial, sans-serif; /* Changes the font type */
+  font-size: 2.5rem;          /* Scales the size (approx. 40px) */
+  font-weight: 700;           /* Sets font thickness (Bold) */
+  color: #1a1a1a;             /* Dark gray text color */
+  text-align: center;         /* Centers the heading text */
+  letter-spacing: -0.5px;     /* Slightly tightens the letter spacing */
+  margin-bottom: 20px;        /* Adds space below the heading */
+}
